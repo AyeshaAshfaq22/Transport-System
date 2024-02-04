@@ -27,9 +27,16 @@ Configure the database connection in the config or database file.
 
 
 ## SnapShots
+### Landing Page
 ![image](https://github.com/AyeshaAshfaq22/Transport-System/assets/158320332/63f9adbb-c9bf-4415-bc58-920669fc8c09)
+
+### Driver Tracking
 ![image](https://github.com/AyeshaAshfaq22/Transport-System/assets/158320332/53d5db91-190f-4b79-81cb-6a9f5a0eff9b)
+
+### Passenger Tracking
 ![image](https://github.com/AyeshaAshfaq22/Transport-System/assets/158320332/5b84063d-390c-4a16-9e10-0d66e31e2d58)
+
+### Vehicle Tracking
 ![image](https://github.com/AyeshaAshfaq22/Transport-System/assets/158320332/9d993003-b1c4-4bf6-8b66-9978401623de)
 
 
