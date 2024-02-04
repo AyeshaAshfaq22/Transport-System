@@ -8,10 +8,11 @@ The Transport Management System is a software application designed to streamline
 
 
 ## Setup Instructions 
-##1: clone the repositary:
+1: clone the repositary:
+   ```sh
 https://github.com/AyeshaAshfaq22/Transport-System.git
 
-##2: Database setup:
+2: Database setup:
 
 *Ensure you have a compatible database system installed (e.g., MySQL, PostgreSQL).
 *Create a new database for the Transport Management System.
@@ -24,3 +25,10 @@ Configure the database connection in the config or database file.
 ![image](https://github.com/AyeshaAshfaq22/Transport-System/assets/158320332/53d5db91-190f-4b79-81cb-6a9f5a0eff9b)
 ![image](https://github.com/AyeshaAshfaq22/Transport-System/assets/158320332/5b84063d-390c-4a16-9e10-0d66e31e2d58)
 ![image](https://github.com/AyeshaAshfaq22/Transport-System/assets/158320332/9d993003-b1c4-4bf6-8b66-9978401623de)
+
+
+---
+<p align="center"> © 2024 Ayesha ashfaq, All Rights Reserved. </p>
+<p align="center">
+https://github.com/AyeshaAshfaq22
+</p>
