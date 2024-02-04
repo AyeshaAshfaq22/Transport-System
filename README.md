@@ -21,10 +21,11 @@ The Transport Management System is a software application designed to streamline
   
 2. Database setup
 
-.Ensure you have a compatible database system installed (e.g., MySQL, PostgreSQL)
+.Ensure you have a compatible database system installed
 
 .Create a new database for the Transport Management System.
 Configure the database connection in the config or database file.
+
 
 
 3. Install Dependencies
