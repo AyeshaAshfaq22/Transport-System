@@ -14,7 +14,7 @@ The Transport Management System is a software application designed to streamline
 
 ## TransportSystem | Setup Instructions 
 1: clone the repositary:
-   ```sh
+ 
 https://github.com/AyeshaAshfaq22/Transport-System.git
 
 2: Database setup:
