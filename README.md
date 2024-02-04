@@ -40,12 +40,6 @@ Configure the database connection in the config or database file.
 ![image](https://github.com/AyeshaAshfaq22/Transport-System/assets/158320332/9d993003-b1c4-4bf6-8b66-9978401623de)
 
 
-<p align="center"> © 2024 Ayesha ashfaq, All Rights Reserved. </p>
-<p align="center">
-https://github.com/AyeshaAshfaq22
-</p>
-
-
 
 ---
 <p align="center"> © 2024 Ayesha ashfaq, All Rights Reserved. </p>
