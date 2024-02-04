@@ -27,10 +27,9 @@ The Transport Management System is a software application designed to streamline
 Configure the database connection in the config or database file.
 
 
-3. Install NPM Packages
+3. Install Dependencies
    ```sh
    npm install 
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
