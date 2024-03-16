@@ -19,18 +19,6 @@ The Transport Management System is a software application designed to streamline
    https://github.com/AyeshaAshfaq22/Transport-System.git
 
   
-2. Database setup
-
-.Ensure you have a compatible database system installed
-
-.Create a new database for the Transport Management System.
-Configure the database connection in the config or database file.
-
-
-
-3. Install Dependencies
-   ```sh
-   npm install 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
